@@ -1,0 +1,2 @@
+I'll be adding leetcode solutions in python which will be helpful for everyone who follow me and to one have curiosity to learn DSA. 
+This will be easy for me as well to know where I'm going, revise for interviews and drives me to continue this work.
